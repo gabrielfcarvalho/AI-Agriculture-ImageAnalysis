@@ -1,0 +1,386 @@
+ CUDNN_HALF=1 
+net.optimized_memory = 0 
+mini_batch = 1, batch = 16, time_steps = 1, train = 0 
+Create CUDA-stream - 0 
+ Create cudnn-handle 0 
+
+ seen 64, trained: 89 K-images (1 Kilo-batches_64) 
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/testing_28_png.rf.9749fcf39aea7932df9a36f8645b7381.jpg: Predicted in 637.210000 milli-seconds.
+sorghum_plant: 74%	(left_x:    0   top_y:    5   width:   26   height:  157)
+sorghum_plant: 94%	(left_x:   53   top_y:    4   width:   48   height:  168)
+sorghum_plant: 96%	(left_x:   56   top_y:  211   width:   41   height:  196)
+sorghum_plant: 96%	(left_x:  140   top_y:  201   width:   43   height:  192)
+sorghum_plant: 69%	(left_x:  220   top_y:    1   width:   63   height:   54)
+sorghum_plant: 67%	(left_x:  305   top_y:   -3   width:   53   height:   78)
+sorghum_plant: 78%	(left_x:  314   top_y:  186   width:   38   height:  147)
+sorghum_plant: 59%	(left_x:  393   top_y:    1   width:   21   height:  168)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/testing_25_png.rf.c782ccc3452d9c73651d90080c7fa248.jpg: Predicted in 6.676000 milli-seconds.
+sorghum_plant: 94%	(left_x:   17   top_y:  247   width:   45   height:  170)
+sorghum_plant: 56%	(left_x:   18   top_y:   -0   width:   52   height:   21)
+sorghum_plant: 52%	(left_x:  102   top_y:    5   width:   58   height:  136)
+sorghum_plant: 78%	(left_x:  107   top_y:  255   width:   39   height:  157)
+sorghum_plant: 88%	(left_x:  201   top_y:    7   width:   42   height:  190)
+sorghum_plant: 81%	(left_x:  287   top_y:    1   width:   46   height:   87)
+sorghum_plant: 69%	(left_x:  293   top_y:  157   width:   38   height:  216)
+sorghum_plant: 67%	(left_x:  378   top_y:   27   width:   36   height:  117)
+sorghum_plant: 50%	(left_x:  384   top_y:  245   width:   29   height:  158)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/testing_48_png.rf.fc2f106cbecb2aca31605850989bfd78.jpg: Predicted in 6.613000 milli-seconds.
+sorghum_plant: 81%	(left_x:   11   top_y:    5   width:   64   height:  215)
+sorghum_plant: 58%	(left_x:   23   top_y:  246   width:   45   height:  170)
+sorghum_plant: 92%	(left_x:  109   top_y:   22   width:   43   height:  186)
+sorghum_plant: 89%	(left_x:  114   top_y:  243   width:   34   height:  162)
+sorghum_plant: 89%	(left_x:  199   top_y:  240   width:   42   height:  179)
+sorghum_plant: 65%	(left_x:  200   top_y:    6   width:   38   height:  112)
+sorghum_plant: 53%	(left_x:  280   top_y:    4   width:   43   height:  209)
+sorghum_plant: 63%	(left_x:  362   top_y:    1   width:   50   height:  417)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/testing_35_png.rf.d5391a0424a348be3bef0010be20801f.jpg: Predicted in 6.630000 milli-seconds.
+sorghum_plant: 62%	(left_x:    1   top_y:  -16   width:   56   height:  374)
+sorghum_plant: 89%	(left_x:   82   top_y:   13   width:   47   height:  279)
+sorghum_plant: 70%	(left_x:   88   top_y:  354   width:   40   height:   64)
+sorghum_plant: 63%	(left_x:  171   top_y:   12   width:   46   height:  285)
+sorghum_plant: 81%	(left_x:  246   top_y:   13   width:   52   height:  287)
+sorghum_plant: 64%	(left_x:  257   top_y:  356   width:   38   height:   61)
+sorghum_plant: 82%	(left_x:  332   top_y:   15   width:   51   height:  278)
+sorghum_plant: 67%	(left_x:  344   top_y:  356   width:   37   height:   59)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/testing_33_png.rf.8206f2b80887a56d425abdfcaf22ab49.jpg: Predicted in 6.616000 milli-seconds.
+sorghum_plant: 83%	(left_x:   -0   top_y:   -1   width:   36   height:  142)
+sorghum_plant: 70%	(left_x:    1   top_y:  187   width:   22   height:  161)
+sorghum_plant: 89%	(left_x:   54   top_y:   -4   width:   57   height:  155)
+sorghum_plant: 65%	(left_x:   65   top_y:  173   width:   36   height:   62)
+sorghum_plant: 80%	(left_x:   66   top_y:  254   width:   37   height:  159)
+sorghum_plant: 94%	(left_x:  142   top_y:   -2   width:   51   height:  143)
+sorghum_plant: 80%	(left_x:  148   top_y:  162   width:   41   height:  242)
+sorghum_plant: 60%	(left_x:  223   top_y:    5   width:   52   height:  145)
+sorghum_plant: 83%	(left_x:  306   top_y:    8   width:   53   height:  139)
+sorghum_plant: 90%	(left_x:  315   top_y:  174   width:   38   height:  210)
+sorghum_plant: 60%	(left_x:  396   top_y:  -12   width:   20   height:  163)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/testing_17_png.rf.2cbfe9d703e1046a6bd252360814d983.jpg: Predicted in 6.640000 milli-seconds.
+sorghum_plant: 79%	(left_x:   72   top_y:   28   width:   53   height:  246)
+sorghum_plant: 79%	(left_x:  250   top_y:    0   width:   62   height:  312)
+sorghum_plant: 77%	(left_x:  264   top_y:  358   width:   41   height:   57)
+sorghum_plant: 81%	(left_x:  348   top_y:   16   width:   52   height:  278)
+sorghum_plant: 82%	(left_x:  359   top_y:  359   width:   40   height:   54)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/testing_20_png.rf.b42eb18de55a877b0e327be4c2596bf9.jpg: Predicted in 6.601000 milli-seconds.
+sorghum_plant: 63%	(left_x:   -3   top_y:   -2   width:   63   height:   71)
+sorghum_plant: 93%	(left_x:    4   top_y:  261   width:   36   height:  160)
+sorghum_plant: 87%	(left_x:   89   top_y:  274   width:   38   height:  146)
+sorghum_plant: 54%	(left_x:  175   top_y:  263   width:   44   height:   93)
+sorghum_plant: 64%	(left_x:  183   top_y:   -2   width:   43   height:  220)
+sorghum_plant: 80%	(left_x:  277   top_y:   -0   width:   35   height:  119)
+sorghum_plant: 80%	(left_x:  277   top_y:  173   width:   38   height:  218)
+sorghum_plant: 60%	(left_x:  368   top_y:   -1   width:   40   height:   46)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/validation_16_png.rf.a64a46de9434e21c7455d71d209369dd.jpg: Predicted in 6.569000 milli-seconds.
+sorghum_plant: 55%	(left_x:   -0   top_y:  148   width:   38   height:  267)
+sorghum_plant: 86%	(left_x:    2   top_y:   -1   width:   35   height:  138)
+sorghum_plant: 88%	(left_x:   69   top_y:  280   width:   62   height:  131)
+sorghum_plant: 88%	(left_x:   75   top_y:    3   width:   54   height:  129)
+sorghum_plant: 50%	(left_x:   76   top_y:  166   width:   48   height:   95)
+sorghum_plant: 58%	(left_x:  156   top_y:  174   width:   64   height:   48)
+sorghum_plant: 76%	(left_x:  158   top_y:    7   width:   63   height:  142)
+sorghum_plant: 86%	(left_x:  158   top_y:  258   width:   56   height:  162)
+sorghum_plant: 97%	(left_x:  252   top_y:  175   width:   64   height:  244)
+sorghum_plant: 94%	(left_x:  344   top_y:  171   width:   65   height:  249)
+sorghum_plant: 90%	(left_x:  349   top_y:    3   width:   58   height:  126)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/validation_11_png.rf.c764badc553ebd7c9893e0be843e134f.jpg: Predicted in 6.944000 milli-seconds.
+sorghum_plant: 54%	(left_x:    3   top_y:   -8   width:   30   height:  139)
+sorghum_plant: 66%	(left_x:   83   top_y:    2   width:   53   height:   82)
+sorghum_plant: 75%	(left_x:   87   top_y:  219   width:   43   height:  197)
+sorghum_plant: 76%	(left_x:  184   top_y:    4   width:   45   height:  189)
+sorghum_plant: 95%	(left_x:  294   top_y:   -2   width:   42   height:  203)
+sorghum_plant: 94%	(left_x:  295   top_y:  235   width:   46   height:  180)
+sorghum_plant: 84%	(left_x:  390   top_y:  242   width:   26   height:  165)
+sorghum_plant: 75%	(left_x:  390   top_y:    4   width:   26   height:  162)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/validation_48_png.rf.a9d3e2d8f0ae863c1589fcd8f21c9c3c.jpg: Predicted in 6.601000 milli-seconds.
+sorghum_plant: 91%	(left_x:  108   top_y:  182   width:   67   height:  233)
+sorghum_plant: 95%	(left_x:  110   top_y:    1   width:   62   height:  143)
+sorghum_plant: 90%	(left_x:  219   top_y:  171   width:   62   height:  243)
+sorghum_plant: 89%	(left_x:  224   top_y:    8   width:   56   height:  132)
+sorghum_plant: 91%	(left_x:  324   top_y:  189   width:   65   height:  228)
+sorghum_plant: 87%	(left_x:  331   top_y:   -3   width:   56   height:  162)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/training_122_png.rf.e0a857770d48399eb4e8ed75f0469b9e.jpg: Predicted in 6.606000 milli-seconds.
+sorghum_plant: 77%	(left_x:   25   top_y:  166   width:   35   height:  135)
+sorghum_plant: 96%	(left_x:  101   top_y:   -5   width:   47   height:   96)
+sorghum_plant: 51%	(left_x:  105   top_y:  305   width:   35   height:  105)
+sorghum_plant: 62%	(left_x:  107   top_y:  122   width:   34   height:   55)
+sorghum_plant: 50%	(left_x:  274   top_y:  155   width:   35   height:  144)
+sorghum_plant: 97%	(left_x:  347   top_y:   -6   width:   47   height:  102)
+sorghum_plant: 52%	(left_x:  350   top_y:  246   width:   45   height:  170)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/training_160_png.rf.3e1a825bd9b8af6aedb164f527c1b412.jpg: Predicted in 7.568000 milli-seconds.
+sorghum_plant: 57%	(left_x:   21   top_y:  353   width:   91   height:   66)
+sorghum_plant: 59%	(left_x:   36   top_y:    3   width:   53   height:   39)
+sorghum_plant: 56%	(left_x:   41   top_y:   89   width:   44   height:   72)
+sorghum_plant: 78%	(left_x:   44   top_y:  180   width:   36   height:  148)
+sorghum_plant: 90%	(left_x:  118   top_y:  341   width:   73   height:   77)
+sorghum_plant: 82%	(left_x:  123   top_y:    1   width:   47   height:   43)
+sorghum_plant: 90%	(left_x:  130   top_y:   96   width:   36   height:  149)
+sorghum_plant: 89%	(left_x:  203   top_y:  337   width:   62   height:   82)
+sorghum_plant: 88%	(left_x:  207   top_y:   -1   width:   56   height:   56)
+sorghum_plant: 92%	(left_x:  214   top_y:   81   width:   40   height:  239)
+sorghum_plant: 91%	(left_x:  285   top_y:   -2   width:   60   height:   57)
+sorghum_plant: 90%	(left_x:  289   top_y:  346   width:   57   height:   70)
+sorghum_plant: 88%	(left_x:  294   top_y:   83   width:   42   height:  234)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/training_53_png.rf.9a18f731eaaf83ab30927ca37379e142.jpg: Predicted in 6.797000 milli-seconds.
+sorghum_plant: 84%	(left_x:   -0   top_y:  208   width:   36   height:  206)
+sorghum_plant: 84%	(left_x:    2   top_y:    4   width:   35   height:  142)
+sorghum_plant: 97%	(left_x:   81   top_y:  197   width:   70   height:  219)
+sorghum_plant: 86%	(left_x:   85   top_y:   -2   width:   64   height:  142)
+sorghum_plant: 58%	(left_x:  203   top_y:    0   width:   69   height:   74)
+sorghum_plant: 95%	(left_x:  206   top_y:  197   width:   65   height:  216)
+sorghum_plant: 85%	(left_x:  317   top_y:  203   width:   65   height:  210)
+sorghum_plant: 60%	(left_x:  320   top_y:    5   width:   70   height:  165)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/training_78_png.rf.3ae8d098be942fa2848c56989bdeda92.jpg: Predicted in 6.541000 milli-seconds.
+sorghum_plant: 68%	(left_x:   26   top_y:    3   width:   39   height:   35)
+sorghum_plant: 66%	(left_x:   28   top_y:  105   width:   36   height:  149)
+sorghum_plant: 70%	(left_x:  111   top_y:   67   width:   50   height:  142)
+sorghum_plant: 77%	(left_x:  114   top_y:   -0   width:   40   height:   26)
+sorghum_plant: 83%	(left_x:  200   top_y:   69   width:   52   height:  284)
+sorghum_plant: 69%	(left_x:  287   top_y:   48   width:   45   height:  319)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/validation_18_png.rf.b65f0023274748b9a404e347de55d35d.jpg: Predicted in 6.551000 milli-seconds.
+sorghum_plant: 70%	(left_x:   36   top_y:   60   width:   61   height:  246)
+sorghum_plant: 66%	(left_x:   43   top_y:   -1   width:   51   height:   30)
+sorghum_plant: 88%	(left_x:   45   top_y:  344   width:   43   height:   74)
+sorghum_plant: 65%	(left_x:  140   top_y:  347   width:   62   height:   71)
+sorghum_plant: 89%	(left_x:  143   top_y:   10   width:   49   height:  276)
+sorghum_plant: 74%	(left_x:  228   top_y:  344   width:   63   height:   76)
+sorghum_plant: 91%	(left_x:  236   top_y:    5   width:   51   height:  274)
+sorghum_plant: 56%	(left_x:  328   top_y:  362   width:   61   height:   52)
+sorghum_plant: 95%	(left_x:  342   top_y:   90   width:   41   height:  212)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/training_192_png.rf.aa94ed3b709c89860f1a52d0c02b975f.jpg: Predicted in 6.542000 milli-seconds.
+sorghum_plant: 68%	(left_x:    2   top_y:   62   width:   52   height:  308)
+sorghum_plant: 51%	(left_x:    2   top_y:    2   width:   55   height:   40)
+sorghum_plant: 58%	(left_x:   10   top_y:  379   width:   40   height:   35)
+sorghum_plant: 88%	(left_x:   81   top_y:   77   width:   62   height:  275)
+sorghum_plant: 55%	(left_x:   93   top_y:    2   width:   45   height:   31)
+sorghum_plant: 61%	(left_x:   96   top_y:  386   width:   43   height:   31)
+sorghum_plant: 80%	(left_x:  182   top_y:   76   width:   47   height:  268)
+sorghum_plant: 64%	(left_x:  183   top_y:   -1   width:   54   height:   45)
+sorghum_plant: 61%	(left_x:  190   top_y:  377   width:   42   height:   39)
+sorghum_plant: 62%	(left_x:  265   top_y:   -1   width:   53   height:   31)
+sorghum_plant: 72%	(left_x:  265   top_y:   67   width:   56   height:   79)
+sorghum_plant: 78%	(left_x:  353   top_y:   69   width:   53   height:  139)
+sorghum_plant: 54%	(left_x:  365   top_y:   -4   width:   43   height:   52)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/validation_09_png.rf.c47d7daf1c117acb79a82f0b16edbfae.jpg: Predicted in 6.592000 milli-seconds.
+sorghum_plant: 53%	(left_x:   49   top_y:   93   width:   59   height:  232)
+sorghum_plant: 68%	(left_x:   54   top_y:   -0   width:   55   height:   69)
+sorghum_plant: 90%	(left_x:  136   top_y:   -1   width:   67   height:   73)
+sorghum_plant: 79%	(left_x:  137   top_y:   77   width:   56   height:  246)
+sorghum_plant: 72%	(left_x:  144   top_y:  335   width:   43   height:   87)
+sorghum_plant: 96%	(left_x:  231   top_y:   92   width:   62   height:  219)
+sorghum_plant: 89%	(left_x:  238   top_y:  340   width:   46   height:   76)
+sorghum_plant: 67%	(left_x:  329   top_y:  344   width:   43   height:   69)
+sorghum_plant: 51%	(left_x:  329   top_y:   -3   width:   49   height:  313)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/training_105_png.rf.654dfc59c220ab8e879d185ae947fd0e.jpg: Predicted in 6.670000 milli-seconds.
+sorghum_plant: 67%	(left_x:   36   top_y:  -12   width:   36   height:  325)
+sorghum_plant: 68%	(left_x:  128   top_y:  -26   width:   51   height:  382)
+sorghum_plant: 79%	(left_x:  229   top_y:    2   width:   42   height:  204)
+sorghum_plant: 59%	(left_x:  230   top_y:  379   width:   44   height:   37)
+sorghum_plant: 60%	(left_x:  319   top_y:  379   width:   55   height:   38)
+sorghum_plant: 76%	(left_x:  319   top_y:    5   width:   48   height:  321)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/training_196_png.rf.83dca24251b5280cc1084e7fb722e8c9.jpg: Predicted in 6.591000 milli-seconds.
+sorghum_plant: 65%	(left_x:   25   top_y:   -1   width:   55   height:   25)
+sorghum_plant: 59%	(left_x:   27   top_y:  307   width:   62   height:  110)
+sorghum_plant: 74%	(left_x:   33   top_y:   90   width:   47   height:  198)
+sorghum_plant: 74%	(left_x:  127   top_y:   91   width:   54   height:  320)
+sorghum_plant: 56%	(left_x:  130   top_y:   -0   width:   52   height:   27)
+sorghum_plant: 75%	(left_x:  230   top_y:   72   width:   59   height:  133)
+sorghum_plant: 72%	(left_x:  330   top_y:   47   width:   55   height:  365)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/training_89_png.rf.21b9d634f712eb1263ae6891e20da1a1.jpg: Predicted in 7.724000 milli-seconds.
+sorghum_plant: 93%	(left_x:   -1   top_y:  282   width:   54   height:  134)
+sorghum_plant: 73%	(left_x:    3   top_y:    2   width:   46   height:  242)
+sorghum_plant: 71%	(left_x:  122   top_y:   14   width:   59   height:  376)
+sorghum_plant: 78%	(left_x:  257   top_y:  290   width:   68   height:  128)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/training_75_png.rf.23155c3496205e4094459310f857b293.jpg: Predicted in 8.064000 milli-seconds.
+sorghum_plant: 94%	(left_x:    4   top_y:  125   width:   67   height:  240)
+sorghum_plant: 65%	(left_x:   12   top_y:  393   width:   63   height:   21)
+sorghum_plant: 59%	(left_x:  111   top_y:  395   width:   55   height:   19)
+sorghum_plant: 90%	(left_x:  201   top_y:  129   width:   59   height:  243)
+sorghum_plant: 54%	(left_x:  202   top_y:  396   width:   56   height:   19)
+sorghum_plant: 78%	(left_x:  391   top_y:  125   width:   25   height:  307)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/training_124_png.rf.880cf55a745bd87522d9ac1cf09334be.jpg: Predicted in 6.724000 milli-seconds.
+sorghum_plant: 90%	(left_x:   -3   top_y:   -3   width:   48   height:   91)
+sorghum_plant: 63%	(left_x:   -1   top_y:  115   width:   45   height:  314)
+sorghum_plant: 85%	(left_x:   86   top_y:  189   width:   71   height:  227)
+sorghum_plant: 91%	(left_x:   91   top_y:    3   width:   60   height:  147)
+sorghum_plant: 95%	(left_x:  198   top_y:  134   width:   64   height:  261)
+sorghum_plant: 81%	(left_x:  307   top_y:  193   width:   69   height:  222)
+sorghum_plant: 89%	(left_x:  312   top_y:    2   width:   68   height:   81)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/training_121_png.rf.f57d5de666f070bc561ff20c721c8e8f.jpg: Predicted in 6.489000 milli-seconds.
+sorghum_plant: 74%	(left_x:   62   top_y:    4   width:   59   height:  255)
+sorghum_plant: 80%	(left_x:   76   top_y:  286   width:   35   height:  125)
+sorghum_plant: 80%	(left_x:  153   top_y:    2   width:   63   height:  259)
+sorghum_plant: 58%	(left_x:  159   top_y:  288   width:   48   height:   43)
+sorghum_plant: 82%	(left_x:  240   top_y:   15   width:   56   height:  378)
+sorghum_plant: 85%	(left_x:  344   top_y:  333   width:   40   height:   90)
+sorghum_plant: 68%	(left_x:  346   top_y:    5   width:   37   height:  145)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/training_12_png.rf.896d9610e8b3109bb4d498202c89c2de.jpg: Predicted in 6.657000 milli-seconds.
+sorghum_plant: 76%	(left_x:   16   top_y:  327   width:   86   height:   88)
+sorghum_plant: 92%	(left_x:   18   top_y:    1   width:   81   height:   84)
+sorghum_plant: 94%	(left_x:   30   top_y:  121   width:   56   height:  165)
+sorghum_plant: 56%	(left_x:  324   top_y:    8   width:   73   height:  225)
+sorghum_plant: 70%	(left_x:  329   top_y:  317   width:   72   height:   97)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/training_18_png.rf.945f918b7846052452e031aec2028822.jpg: Predicted in 6.613000 milli-seconds.
+sorghum_plant: 81%	(left_x:   36   top_y:   -2   width:   47   height:  291)
+sorghum_plant: 53%	(left_x:  125   top_y:   51   width:   45   height:  200)
+sorghum_plant: 93%	(left_x:  130   top_y:  325   width:   37   height:   96)
+sorghum_plant: 88%	(left_x:  206   top_y:  325   width:   44   height:   95)
+sorghum_plant: 87%	(left_x:  206   top_y:   -2   width:   41   height:   88)
+sorghum_plant: 97%	(left_x:  293   top_y:   -7   width:   39   height:  228)
+sorghum_plant: 85%	(left_x:  378   top_y:    9   width:   33   height:  150)
+sorghum_plant: 82%	(left_x:  378   top_y:  182   width:   33   height:  127)
+sorghum_plant: 61%	(left_x:  378   top_y:  326   width:   34   height:   91)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/training_44_png.rf.a23efb05fa7977f94870fa3886fec577.jpg: Predicted in 6.559000 milli-seconds.
+sorghum_plant: 62%	(left_x:   54   top_y:   -0   width:   47   height:   23)
+sorghum_plant: 73%	(left_x:   55   top_y:  203   width:   59   height:  117)
+sorghum_plant: 80%	(left_x:   62   top_y:   70   width:   46   height:   61)
+sorghum_plant: 82%	(left_x:  141   top_y:  299   width:   65   height:  116)
+sorghum_plant: 72%	(left_x:  147   top_y:   59   width:   51   height:  154)
+sorghum_plant: 51%	(left_x:  148   top_y:   -0   width:   51   height:   21)
+sorghum_plant: 70%	(left_x:  344   top_y:  285   width:   62   height:  115)
+sorghum_plant: 55%	(left_x:  353   top_y:   59   width:   46   height:  209)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/training_188_png.rf.9745ecfcfe31aa4fb165e008c2898deb.jpg: Predicted in 6.591000 milli-seconds.
+sorghum_plant: 95%	(left_x:   -1   top_y:   27   width:   40   height:  195)
+sorghum_plant: 56%	(left_x:  109   top_y:    5   width:   72   height:  231)
+sorghum_plant: 89%	(left_x:  113   top_y:  263   width:   66   height:  153)
+sorghum_plant: 50%	(left_x:  115   top_y:   -0   width:   64   height:  118)
+sorghum_plant: 81%	(left_x:  237   top_y:   78   width:   81   height:  207)
+sorghum_plant: 81%	(left_x:  242   top_y:    2   width:   68   height:   51)
+sorghum_plant: 97%	(left_x:  247   top_y:  300   width:   70   height:  118)
+sorghum_plant: 73%	(left_x:  377   top_y:  261   width:   37   height:  144)
+sorghum_plant: 77%	(left_x:  378   top_y:   11   width:   39   height:  145)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/training_134_png.rf.41ef2a70982eb3781162c1f9428e7a34.jpg: Predicted in 6.623000 milli-seconds.
+sorghum_plant: 92%	(left_x:   53   top_y:   25   width:   65   height:  413)
+sorghum_plant: 92%	(left_x:  152   top_y:   18   width:   67   height:  312)
+sorghum_plant: 56%	(left_x:  160   top_y:  349   width:   56   height:   65)
+sorghum_plant: 73%	(left_x:  254   top_y:   31   width:   73   height:  295)
+sorghum_plant: 66%	(left_x:  257   top_y:  339   width:   65   height:   79)
+sorghum_plant: 77%	(left_x:  353   top_y:   98   width:   49   height:  284)
+sorghum_plant: 90%	(left_x:  356   top_y:    0   width:   48   height:   69)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/training_166_png.rf.9cdd602f0662e345ab143cb4ebc58edb.jpg: Predicted in 6.604000 milli-seconds.
+sorghum_plant: 64%	(left_x:   33   top_y:  152   width:   64   height:  103)
+sorghum_plant: 92%	(left_x:   34   top_y:    1   width:   67   height:   82)
+sorghum_plant: 76%	(left_x:   37   top_y:  291   width:   58   height:   79)
+sorghum_plant: 86%	(left_x:  133   top_y:    2   width:   62   height:  111)
+sorghum_plant: 53%	(left_x:  144   top_y:  266   width:   38   height:  145)
+sorghum_plant: 88%	(left_x:  232   top_y:   -0   width:   60   height:  112)
+sorghum_plant: 73%	(left_x:  235   top_y:  372   width:   54   height:   46)
+sorghum_plant: 79%	(left_x:  239   top_y:  152   width:   55   height:  181)
+sorghum_plant: 82%	(left_x:  336   top_y:   24   width:   53   height:  287)
+sorghum_plant: 54%	(left_x:  344   top_y:  359   width:   41   height:   56)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/training_82_png.rf.73e51476d5cdf1f15e0006114582c3a2.jpg: Predicted in 6.693000 milli-seconds.
+sorghum_plant: 88%	(left_x:   13   top_y:   69   width:   61   height:  333)
+sorghum_plant: 94%	(left_x:  106   top_y:   47   width:   59   height:  374)
+sorghum_plant: 96%	(left_x:  205   top_y:   40   width:   60   height:  386)
+sorghum_plant: 79%	(left_x:  299   top_y:   57   width:   57   height:  345)
+sorghum_plant: 68%	(left_x:  393   top_y:   55   width:   23   height:  351)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/training_95_png.rf.143171f3e7e6d6f9540fef48d833d8af.jpg: Predicted in 6.642000 milli-seconds.
+sorghum_plant: 80%	(left_x:   55   top_y:   64   width:   48   height:  236)
+sorghum_plant: 83%	(left_x:   56   top_y:  345   width:   53   height:   69)
+sorghum_plant: 67%	(left_x:  155   top_y:  347   width:   63   height:   68)
+sorghum_plant: 73%	(left_x:  161   top_y:   55   width:   48   height:  258)
+sorghum_plant: 60%	(left_x:  261   top_y:  369   width:   58   height:   50)
+sorghum_plant: 81%	(left_x:  263   top_y:   24   width:   54   height:  288)
+sorghum_plant: 53%	(left_x:  365   top_y:  346   width:   47   height:   70)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/content/drive/MyDrive/TG/arquiteturas/Darknet/sorghumfield.v3i.darknet/test/validation_25_png.rf.5ea0dd56e58ae897e3fbb1565808c72c.jpg: Predicted in 6.571000 milli-seconds.
+sorghum_plant: 71%	(left_x:    1   top_y:  132   width:   34   height:  143)
+sorghum_plant: 94%	(left_x:   80   top_y:    3   width:   70   height:   66)
+sorghum_plant: 74%	(left_x:   93   top_y:  109   width:   41   height:  112)
+sorghum_plant: 50%	(left_x:   96   top_y:  256   width:   41   height:  155)
+sorghum_plant: 86%	(left_x:  202   top_y:    1   width:   52   height:   81)
+sorghum_plant: 74%	(left_x:  204   top_y:  119   width:   47   height:  286)
+Enter Image Path: 

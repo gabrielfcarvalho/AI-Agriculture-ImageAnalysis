@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/TG/arquiteturas/Ultralytics/sorghumfield.v3-416x416_augmented.mt-yolov6/images/train
+val: /content/drive/MyDrive/TG/arquiteturas/Ultralytics/sorghumfield.v3-416x416_augmented.mt-yolov6/images/valid
+test: /content/drive/MyDrive/TG/arquiteturas/Ultralytics/sorghumfield.v3-416x416_augmented.mt-yolov6/images/test
+
+nc: 1
+names: ['sorghum_plant']

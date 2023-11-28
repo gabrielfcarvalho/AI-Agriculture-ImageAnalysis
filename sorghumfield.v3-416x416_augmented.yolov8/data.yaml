@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/TG/arquiteturas/Ultralytics/sorghumfield.v3-416x416_augmented.yolov8/train/images
+val: /content/drive/MyDrive/TG/arquiteturas/Ultralytics/sorghumfield.v3-416x416_augmented.yolov8/valid/images
+test: /content/drive/MyDrive/TG/arquiteturas/Ultralytics/sorghumfield.v3-416x416_augmented.yolov8/test/images
+
+nc: 1
+names: ['c']

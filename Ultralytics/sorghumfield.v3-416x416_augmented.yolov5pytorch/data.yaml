@@ -1,0 +1,13 @@
+train: /content/drive/MyDrive/TG/arquiteturas/Ultralytics/sorghumfield.v3-416x416_augmented.yolov5pytorch/train
+val: /content/drive/MyDrive/TG/arquiteturas/Ultralytics/sorghumfield.v3-416x416_augmented.yolov5pytorch/valid
+test: /content/drive/MyDrive/TG/arquiteturas/Ultralytics/sorghumfield.v3-416x416_augmented.yolov5pytorch/test
+
+nc: 1
+names: ['sorghum_plant']
+
+roboflow:
+  workspace: project
+  project: sorghumfield
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/project/sorghumfield/dataset/3
