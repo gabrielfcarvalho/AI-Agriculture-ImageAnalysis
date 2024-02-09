@@ -16,3 +16,5 @@ Our work aims to showcase the potential of AI in revolutionizing agricultural mo
 
 ## Contribution
 We encourage the community to contribute, whether through code improvements, dataset expansion, or by sharing innovative uses of our analysis model. Let's collaborate to drive forward the future of precision agriculture.
+
+[Download my thesis on the Application of Artificial Intelligence Techniques for the Automatic Analysis of Aerial Agricultural Images](https://drive.google.com/file/d/1po-_-dcDeVZnHY_t0LYi1cEjMekoNbdX/view?usp=sharing)
